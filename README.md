@@ -1,5 +1,14 @@
 # 销售管理驾驶舱 · 前端演示
 
+## 仓库用途与内容边界
+
+本公开仓库仅用于发布销售管理驾驶舱的前端演示代码（构建后的 HTML、CSS、JavaScript 及页面所需静态资源），供在线浏览和体验。
+
+- 不包含真实项目资料：需求文档、设计交付资料、内部文档等不在本仓库发布。
+- 不包含真实业务数据、数据库、后端程序、真实账号凭据或私密环境配置。
+- 页面展示的数据全部为虚构示例，仅用于前端演示；模拟操作只在浏览器内存中执行，不连接真实业务系统。
+- 完整项目资料备份应由私有仓库承担，本公开仓库不作为完整项目备份。
+
 在线查看：[https://huybio9566.github.io/sales-cockpit-demo/](https://huybio9566.github.io/sales-cockpit-demo/)
 
 静态发布仓库：[https://github.com/HuYbio9566/sales-cockpit-demo](https://github.com/HuYbio9566/sales-cockpit-demo)
